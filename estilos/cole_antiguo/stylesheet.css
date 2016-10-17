@@ -3,8 +3,7 @@
 body {
   margin: 1px;
   padding: 1px;
-  background-image:url(../images/bandera_francesa.png);  
-  /*background:#000011;*/
+  background-image:url(../../images/cole_antiguo/fondo1.jpg);  
   color: #eaeaea; /*Color de la fuente*/
   font: 18px;
   line-height: 1.2;
@@ -26,8 +25,7 @@ section {
 
 /* Definimos el aspecto de los encabezados*/
 h1 {
-  font-weight: bold;
-  
+  font-weight: bold;  
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #0001ff;
   letter-spacing: 0.1em;
@@ -92,7 +90,13 @@ td:hover{background-color:#060606} /* Hacemos que el color cambie al pasar el cu
   float: left;
 }
 
-
+img {
+  /*display: block; */
+  max-width:700px;
+  max-height:300px;
+  width: auto;
+  height: auto;
+}
 
 
 /* Links
