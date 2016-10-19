@@ -3,7 +3,7 @@
 body {
   margin: 1px;
   padding: 1px;
-  background-image:url(../../images/cole_antiguo/fondo1.jpg);  
+  background-image:url(../cole_antiguo/images/fondo1.jpg);  
   color: #eaeaea; /*Color de la fuente*/
   font: 18px;
   line-height: 1.2;
@@ -92,7 +92,7 @@ td:hover{background-color:#060606} /* Hacemos que el color cambie al pasar el cu
 
 img {
   /*display: block; */
-  max-width:700px;
+  max-width:300px;
   max-height:300px;
   width: auto;
   height: auto;
