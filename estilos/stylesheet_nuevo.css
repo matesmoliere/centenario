@@ -3,7 +3,7 @@
 body {
   margin: 1px;
   padding: 1px;
-  background-image:url(../cole_antiguo/images/fondo1.jpg);  
+  background-image:url(../cole_nuevo/images/fondo.jpg);  
   color: #eaeaea; /*Color de la fuente*/
   font: 18px;
   line-height: 1.2;
@@ -47,6 +47,8 @@ h2, h3, h4, h5, h6 {
 }
 
 li {font-size:18px;}
+
+
 
 table.center {
     margin-left:auto; 
