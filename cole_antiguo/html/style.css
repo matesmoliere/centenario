@@ -22,8 +22,8 @@ figure {
   width: 180px; 
   float: left; 
   margin: 0 10px 0 0; 
-  background: white;
-  border: 5px solid gray; 
+  background-color: #eff0f2;
+  border: 1px solid gray; 
   -webkit-box-shadow: 0 3px 10px #ccc; 
   -moz-box-shadow: 0 3px 10px #ccc;
   -webkit-transform: rotate(5deg); 
